@@ -1,3 +1,3 @@
 # README
 
-nauka hakierowania normalnie 24.11.2016
+[Upskill](http://upskillcourses.com) Software-as-a-Service Ruby on Rails App
